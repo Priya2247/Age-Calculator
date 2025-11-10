@@ -22,6 +22,7 @@ It allows users to select their birth date and calculates their **exact age in y
 
 ## 🌐 Live Website
 You can try the project here:  
-👉 [**Click to Open Age Calculator**](https://priya2247.github.io/age-calculator/)
+👉 [**Click to Open Age Calculator**](https://priya2247.github.io/Age-Calculator/)
+
 
 
